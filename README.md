@@ -1,7 +1,7 @@
 ### Autor: Gabriel Kresin
 
 ### Como importar as dependências:
-Este projeto utiliza a lib commons-codec para fazer a conversão de arrays do tipo byte para Strinhs hexadecimais. Para 
+Este projeto utiliza a lib commons-codec para fazer a conversão de arrays do tipo byte para Strings hexadecimais. Para 
 importar a lib na sua IDE, basta seguir o passo a passo abaixo:
 
 **IntelliJ:**
